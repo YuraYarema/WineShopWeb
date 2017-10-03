@@ -95,9 +95,3 @@ h3 {
 <sec:authorize access="!isAuthenticated()">
 	<h3 class="center">To buy wine please <a href="/login" id="dep">login</a> or <a href="/registration" id="dep">sign up</a></h3>
 </sec:authorize>
-
-<script type="text/javascript">
-	document.getElementById('addToCart').addEventListener('click', function() {
-		alert("Selected wine was added to your shopping cart.")
-	});
-</script>

@@ -102,7 +102,7 @@ hr:before {
 			<div class="col-md-12">
 				<div class="col-md-8"></div>
 				<div class="col-md-4">
-					<a href="/makeorder"><button type="button" class="btn btn-primary btn-lg btn-block">Confirm order <span class="glyphicon glyphicon-ok"
+					<a href="/order"><button type="button" class="btn btn-primary btn-lg btn-block">Confirm order <span class="glyphicon glyphicon-ok"
 					aria-hidden="true"></span>	</button></a>
 				</div>
 			</div>
